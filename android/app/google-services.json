@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286892056136",
+    "project_id": "appcrud-dfa82",
+    "storage_bucket": "appcrud-dfa82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286892056136:android:7086b3b13810935db1427d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJX0fGz2yKIQHFBFRQkSbcExBVPtAWcrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
